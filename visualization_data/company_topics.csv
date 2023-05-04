@@ -1,0 +1,151 @@
+company_id,Overall_Topic,topic_id
+102,Manufacturing,T00
+498,Manufacturing,T00
+991,Manufacturing,T00
+33,Customer Rights,T01
+454,Customer Rights,T01
+532,Customer Rights,T01
+551,Customer Rights,T01
+588,Customer Rights,T01
+604,Customer Rights,T01
+614,Customer Rights,T01
+623,Customer Rights,T01
+716,Customer Rights,T01
+1129,Customer Rights,T01
+1180,Customer Rights,T01
+3,People,T02
+187,People,T02
+605,People,T02
+121,General Company Information,T03
+261,General Company Information,T03
+503,General Company Information,T03
+565,General Company Information,T03
+574,General Company Information,T03
+1022,General Company Information,T03
+34,Product Parts,T04
+77,Product Parts,T04
+211,Product Parts,T04
+255,Product Parts,T04
+567,Product Parts,T04
+639,Product Parts,T04
+694,Product Parts,T04
+863,Product Parts,T04
+896,Product Parts,T04
+1008,Product Parts,T04
+1025,Product Parts,T04
+1118,Product Parts,T04
+134,Casting Process,T05
+217,Casting Process,T05
+414,Casting Process,T05
+474,Casting Process,T05
+494,Casting Process,T05
+704,Casting Process,T05
+711,Casting Process,T05
+844,Casting Process,T05
+900,Casting Process,T05
+902,Casting Process,T05
+1032,Casting Process,T05
+1045,Casting Process,T05
+1047,Casting Process,T05
+356,Magnet Manufacturing,T06
+748,Magnet Manufacturing,T06
+857,Magnet Manufacturing,T06
+1142,Magnet Manufacturing,T06
+123,Long-Term Quality,T07
+146,Long-Term Quality,T07
+325,Long-Term Quality,T07
+599,Long-Term Quality,T07
+642,Long-Term Quality,T07
+652,Long-Term Quality,T07
+916,Long-Term Quality,T07
+1050,Long-Term Quality,T07
+1201,Long-Term Quality,T07
+113,Advanced Technology,T08
+700,Advanced Technology,T08
+1041,Advanced Technology,T08
+387,Services,T09
+549,Services,T09
+856,Services,T09
+1181,Services,T09
+81,Industry,T10
+218,Industry,T10
+299,Industry,T10
+318,Industry,T10
+344,Industry,T10
+457,Industry,T10
+531,Industry,T10
+781,Industry,T10
+794,Industry,T10
+944,Industry,T10
+995,Industry,T10
+1020,Industry,T10
+1087,Industry,T10
+1191,Industry,T10
+1222,Industry,T10
+82,Production Techniques,T11
+523,Production Techniques,T11
+664,Production Techniques,T11
+221,Customer Privacy,T12
+233,Customer Privacy,T12
+308,Customer Privacy,T12
+590,Customer Privacy,T12
+730,Customer Privacy,T12
+734,Customer Privacy,T12
+905,Customer Privacy,T12
+933,Customer Privacy,T12
+1039,Customer Privacy,T12
+1172,Customer Privacy,T12
+175,Product Design/Team,T13
+281,Product Design/Team,T13
+355,Product Design/Team,T13
+372,Product Design/Team,T13
+895,Product Design/Team,T13
+925,Product Design/Team,T13
+1046,Product Design/Team,T13
+443,Parts,T14
+500,Parts,T14
+66,Bearing,T15
+946,Bearing,T15
+1027,Bearing,T15
+112,Glass,T16
+462,Glass,T16
+548,Glass,T16
+721,Glass,T16
+1200,Glass,T16
+10,Website Information,T17
+58,Website Information,T17
+97,Website Information,T17
+254,Website Information,T17
+294,Website Information,T17
+322,Website Information,T17
+324,Website Information,T17
+661,Website Information,T17
+726,Website Information,T17
+793,Website Information,T17
+797,Website Information,T17
+829,Website Information,T17
+872,Website Information,T17
+948,Website Information,T17
+952,Website Information,T17
+959,Website Information,T17
+1012,Website Information,T17
+392,Customer Service,T18
+455,Customer Service,T18
+603,Customer Service,T18
+654,Customer Service,T18
+741,Customer Service,T18
+992,Customer Service,T18
+1055,Customer Service,T18
+1216,Customer Service,T18
+49,Metal,T19
+63,Metal,T19
+101,Metal,T19
+169,Metal,T19
+209,Metal,T19
+674,Metal,T19
+679,Metal,T19
+771,Metal,T19
+825,Metal,T19
+828,Metal,T19
+858,Metal,T19
+1010,Metal,T19
